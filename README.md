@@ -1,11 +1,10 @@
 # Hi, I'm Raxit 👋
 
-Welcome to my GitHub portfolio! I'm a [your job title, e.g., full-stack developer] with experience in [your key technologies: JavaScript, Python, etc.]. Here, you’ll find a collection of my projects and contributions that showcase my skills and expertise.
+Welcome to my GitHub portfolio! I'm a Senior Engineer with experience in Golang, C#.
 
 ## 📫 Contact Me
-- Email: [your email]
-- LinkedIn: [your LinkedIn URL]
-- Website/Blog: [your website, if you have one]
+- Email: chauhanraxit@gmail.com
+- LinkedIn: [raxit.chauhan](https://www.linkedin.com/in/raxit-chauhan-33a63582/)
 
 ## 🚀 Skills & Technologies
 - Languages: Golang, C#
